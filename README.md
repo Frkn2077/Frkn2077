@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">I am a software engineer. I work on artificial intelligence and mobile programming.</h3>
 
-<p align="left"> ![trophy](https://github-profile-trophy.vercel.app/?username=frkn2077&v=1)</p>
+<p align="left"> [![trophy](https://SENIN-YENI-VERCEL-LINKIN/?username=frkn2077)](https://github.com/ryo-ma/github-profile-trophy)</p>
 
 - 🌱 I’m currently learning **React.Js,Flutter,Deeplearning**
 
